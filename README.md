@@ -14,6 +14,6 @@ Paiya App Ad-hoc Distribution
 
 ---
 
-> Develop Beta Edition
+> App Connect Edition
 >
-> [Install Paiya app connect](itms-services://?action=download-manifest&url=https://churchrobotics.github.io/kameoapp-dist/PaiyaBeta.plist)
+> [Install Paiya app connect](itms-services://?action=download-manifest&url=https://churchrobotics.github.io/kameoapp-dist/PaiyaApp.plist)

@@ -17,7 +17,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.guakamoli.kameoapp.ios</string>
+                    <string>com.guakamoli.paiya.ios</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>

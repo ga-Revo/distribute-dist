@@ -1,19 +1,21 @@
-# Paiya Distribution
+# Guakamoli Distribution
 
-Paiya App Ad-hoc Distribution
+## Ad-hoc Distribution
 
 > Product Edition
 >
-> [Install Paiya](itms-services://?action=download-manifest&url=https%3A%2F%2Fchurchrobotics.github.io%2Fkameoapp-dist%2FPaiya.plist)
-
----
+> [Install Paiya Talent](itms-services://?action=download-manifest&url=https%3A%2F%2Fchurchrobotics.github.io%2Fkameoapp-dist%2FPaiya.plist)
+>
+> [Install GoDuck Talent](itms-services://?action=download-manifest&url=https%3A%2F%2Fchurchrobotics.github.io%2Fkameoapp-dist%2FGoDuckTalent.plist)
 
 > Develop Beta Edition
 >
-> [Install Paiya Beta](itms-services://?action=download-manifest&url=https%3A%2F%2Fchurchrobotics.github.io%2Fkameoapp-dist%2FPaiyaBeta.plist)
+> [Install Paiya Talent Beta](itms-services://?action=download-manifest&url=https%3A%2F%2Fchurchrobotics.github.io%2Fkameoapp-dist%2FPaiyaBeta.plist)
+>
+> [Install GoDuck Talent Beta](itms-services://?action=download-manifest&url=https%3A%2F%2Fchurchrobotics.github.io%2Fkameoapp-dist%2FGoDuckTalentBeta.plist)
 
 ---
 
-App Connect Edition
+## App Connect Edition
 
-> [Install Paiya app](itms-services://?action=download-manifest&url=https%3A%2F%2Fchurchrobotics.github.io%2Fkameoapp-dist%2FPaiyaApp.plist)
+> [Install Paiya Talent App](itms-services://?action=download-manifest&url=https%3A%2F%2Fchurchrobotics.github.io%2Fkameoapp-dist%2FPaiyaApp.plist)

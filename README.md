@@ -1,3 +1,5 @@
+如果点击没有反应，请使用 Safari 浏览器
+
 ## Ad-hoc Distribution
 
 > Product Edition
